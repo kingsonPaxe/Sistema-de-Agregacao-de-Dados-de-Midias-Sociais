@@ -20,6 +20,10 @@ Este projeto é um sistema de agregação de mídias sociais desenvolvido em Pyt
     ```bash
     pip install requests pymongo
     ```
+    ou
+    ```bash
+    pip install -r requeiremnts.txt
+    ```
 3. Configure as credenciais das APIs do YouTube e Twitter.
 4. Execute o script principal:
     ```bash
