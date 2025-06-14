@@ -40,8 +40,4 @@ Este projeto é um sistema de agregação de mídias sociais desenvolvido em Pyt
 - Certifique-se de que o MongoDB está em execução antes de iniciar o sistema.
 - As credenciais das APIs devem ser mantidas em segurança.
 
-## Licença
-
-Este projeto está licenciado sob os termos da licença MIT.
-
 Project by: Jeovani Paxe
