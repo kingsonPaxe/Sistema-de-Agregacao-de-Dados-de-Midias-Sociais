@@ -34,7 +34,9 @@ Este projeto é um sistema de agregação de mídias sociais desenvolvido em Pyt
 
 ```
 .
+├── test
 ├── main.py
+├── orquestração.py
 ├── requirements.txt
 └── README.md
 ```
