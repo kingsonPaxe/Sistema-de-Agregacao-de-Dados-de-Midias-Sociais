@@ -1,0 +1,6 @@
+.env
+test/arquivo.json
+test/gabarito_aula1.py
+test/testeX_tweepy.py
+test/StreamlitAula1.py
+__pycache__
