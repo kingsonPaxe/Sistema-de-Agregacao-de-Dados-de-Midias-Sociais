@@ -16,8 +16,8 @@ client = MongoClient("mongodb://localhost:27017/")
 load_dotenv()
 
 # API keys
-api_twitter = os.getenv('bear_token') # Token da API do twitter
-apikey_youtube = os.getenv('Youtube_API_Key')
+api_twitter = os.getenv('bear_token') # Insira as suas crendenciais aqui
+apikey_youtube = os.getenv('Youtube_API_Key') # Insira as suas crendenciais aqui
 
 
 class sad:
