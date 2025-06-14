@@ -22,7 +22,7 @@ Este projeto é um sistema de agregação de mídias sociais desenvolvido em Pyt
     ```
     ou
     ```bash
-    pip install -r requeiremnts.txt
+    pip install -r requiremnts.txt
     ```
 3. Configure as credenciais das APIs do YouTube e Twitter.
 4. Execute o script principal:
